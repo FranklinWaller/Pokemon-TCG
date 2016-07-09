@@ -1,0 +1,28 @@
+{
+    "SetName": "Base Set",
+    "SetNameMeta": "BASE_SET",
+    "No": 1,
+    "ReleaseDate": "January 9 1999",
+    "Cards": [
+        {
+            "Id": 1,
+            "Name": "Alakazam",
+            "Type": "PSYCHIC",
+            "HP": 80,
+            "Rarity": "H",
+            "PokemonPower": {
+                "Description": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
+            },
+            "EvolutionName": "ALAKAZAM",
+            "EvolutionStage": 2,
+            "EvolvesFrom": {
+                "Name": "KADABRA"
+            },
+            "Extra": {
+                "Height": "4'11\"",
+                "Weight": "106 lbs. (48.0 kg)",
+                "About": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5000."
+            }
+        }
+    ]
+}
